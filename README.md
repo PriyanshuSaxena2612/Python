@@ -3,3 +3,4 @@
 * __Currency Converter__
 * __Dictionary__
 * __Rock-Paper-Scissors__
+* __Calculator__
